@@ -1,6 +1,8 @@
-# React Typescript Boilerplate
+# Badi Stained Glass Project
 
-Boilerplate project built using React + Typescript. Minimal configuration. Built to support both large and small projects.
+Website built for a stain glass window.
+
+[website](https://www.badistainedglassproject.com)
 
 ```sh
 $ cd root
